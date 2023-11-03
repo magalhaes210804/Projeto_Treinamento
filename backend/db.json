@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "banana",
+      "codigo": "1dfsdf23",
+      "price": "30.30"
+    },
+    {
+      "id": 2,
+      "name": "lixo",
+      "codigo": "0fsfd3",
+      "price": "2.00"
+    },
+    {
+      "id": 3,
+      "name": "maça",
+      "codigo": "3453g45vj",
+      "price": "3.00"
+    },
+    {
+      "id": 4,
+      "name": "carro",
+      "codigo": "0123abc",
+      "price": "70000.00"
+    }
+  ]
+}
